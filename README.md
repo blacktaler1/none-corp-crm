@@ -1,4 +1,4 @@
-# Kiyim-Kechak Frontend
+# NoneCorporation Frontend
 
 React frontend for wholesale clothing CRM system.
 
