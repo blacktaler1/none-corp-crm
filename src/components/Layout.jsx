@@ -28,7 +28,7 @@ const Layout = ({ children }) => {
         className={`sidebar fixed inset-y-0 left-0 z-50 w-64 transform transition-transform duration-300 ease-in-out lg:translate-x-0 ${sidebarOpen ? "translate-x-0" : "-translate-x-full"}`}
       >
         <div className="sidebar-header">
-          <h1 className="sidebar-title">NoneCorporation CRM</h1>
+          <h1 className="sidebar-title">Abduqodir CRM</h1>
         </div>
 
         <nav className="sidebar-nav">
